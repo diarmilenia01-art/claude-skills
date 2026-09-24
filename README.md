@@ -1,4 +1,4 @@
-# Claude Skills — by Diar Azari
+# Claude Skills, by Diar Azari
 
 A growing collection of **effective, token-efficient skills for Claude**, built for two kinds of people I know well: **students** (thesis, dissertation, coursework) and **data analysts** (forecasting, reporting, analysis).
 
@@ -14,7 +14,7 @@ Skills that help with research, writing, and coursework.
 
 | Skill | What it does | Status |
 |---|---|---|
-| [thesis-companion](./thesis-companion) | A companion for skripsi/thesis/journal work: finds open-access sources, checks whether a paper fits your argument, explains hard papers, reviews your draft, formats citations, and preps you for the defense — token-efficient, and it keeps you the author | ✅ Tested |
+| [thesis-companion](./thesis-companion) | A companion for skripsi/thesis/journal work: finds open-access sources, checks whether a paper fits your argument, explains hard papers, reviews your draft, formats citations, and preps you for the defense, token-efficient, and it keeps you the author | ✅ Tested |
 
 ## For data analysts
 
@@ -23,8 +23,9 @@ Skills for forecasting, analysis, and turning data into decisions.
 | Skill | What it does | Status |
 |---|---|---|
 | [defensible-forecasting](./defensible-forecasting) | Interviews the user, backtests 20+ forecasting models across every major family, and selects the best 3 by MAPE with anti-overfitting safeguards (holdout confirmation, parsimony, seasonal data-gating) | ✅ Tested |
+| [claim-checker](./claim-checker) | A critical-thinking companion for data claims: flags misleading axes, correlation-as-causation, hidden sample sizes and more, as questions to check, never as verdicts | ✅ Tested |
 
-*More skills for both groups are on the way — this collection grows over time.*
+*More skills for both groups are on the way, this collection grows over time.*
 
 ---
 
@@ -45,6 +46,6 @@ Each skill folder contains a `SKILL.md` (the entry point) plus any `scripts/` an
 
 ## License
 
-Released under the **MIT License** — free to use, modify, and share, including commercially, as long as attribution is kept. See [`LICENSE`](./LICENSE).
+Released under the **MIT License**, free to use, modify, and share, including commercially, as long as attribution is kept. See [`LICENSE`](./LICENSE).
 
 Created by **Diar Azari** · [linkedin.com/in/diarazari](https://www.linkedin.com/in/diarazari/)
