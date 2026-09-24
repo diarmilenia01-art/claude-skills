@@ -14,7 +14,7 @@ Skills that help with research, writing, and coursework.
 
 | Skill | What it does | Status |
 |---|---|---|
-| [literature-assistant](./literature-assistant) | Finds open-access papers, converts each PDF to Markdown once (token-efficient), extracts structure (problem, method, findings, limitations), polishes prose with academic-tuned anti-slop rules, and saves cited notes (APA/IEEE/Vancouver) | ✅ Tested |
+| [thesis-companion](./thesis-companion) | A companion for skripsi/thesis/journal work: finds open-access sources, checks whether a paper fits your argument, explains hard papers, reviews your draft, formats citations, and preps you for the defense — token-efficient, and it keeps you the author | ✅ Tested |
 
 ## For data analysts
 
